@@ -1,6 +1,6 @@
 This converts USB to UART on a PMOD connector.
 
-*Status*: soldered, USB chip detected by OS, TXD&RXD lights up when sending on loopback, unkown if working correctly.
+*Status*: working.
 
 My [Kicad library](https://github.com/atoomnetmarc/ATOOMNETKICAD) is used in this project.
 
